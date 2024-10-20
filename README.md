@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Nivedita
-#### Engineering solutions, one line at a time
-- 😄 Pronouns: she/her/hers 
+#### _"Engineering solutions, one line at a time"_
+
+![Hello World](https://github.com/nivedita0701/nivedita0701/blob/main/hello%20world%202.jpg)
+
+
 
 I’m a software engineer with a passion for cloud computing, distributed systems, and full-stack development. With experience at **Broadcom**, **VMware**, and **Optum**, and a Master’s in Software Engineering from **SJSU**, I love building scalable, high-performance systems and creating solutions that make an impact.
 
